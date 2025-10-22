@@ -37,7 +37,3 @@ Active in business analysis, data modeling, and process optimization.
 This project is provided for educational and analytical purposes.
 
 ***
-
-Let me know if you want to add sections like *installation instructions*, *dependencies*, or a more technical breakdown of the Excel model!
-
-[1](https://github.com/saumyaprasad07/Business-Analysis-on-Aggregate-Planning-at-Green-Mills)
