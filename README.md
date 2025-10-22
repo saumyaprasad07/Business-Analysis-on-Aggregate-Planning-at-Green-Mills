@@ -1,27 +1,59 @@
-# Business Analysis on Aggregate Planning at Green Mills
+📊 Business Analysis on Aggregate Planning at Green Mills
+A data-driven Excel model recommending the optimal aggregate planning strategy to minimize production costs and balance workforce, inventory, and supply chain efficiency for Green Mills over 12 months.
 
-This project analyzes *aggregate planning strategies* for Green Mills, with the goal of reducing production costs and optimizing resource allocation using **Excel-based modeling**. The analysis recommends the optimal strategy by aligning workforce, inventory, and supply chain constraints to efficiently meet customer demand over a 12-month period.
+🧠 Objective
+This project evaluates and compares multiple aggregate production planning strategies for Green Mills. The aim is to minimize total operational costs while ensuring all customer demand is met by optimizing workforce allocation, inventory levels, and supply chain constraints across a one-year planning horizon.
 
-## Project Overview
+📂 Dataset
+Source: Internal manufacturing and demand records of Green Mills (see project_file.xlsx)
 
-Green Mills faces variable monthly demand and must determine the best approach to manage production, workforce levels, inventory, and supply chain costs. This project evaluates multiple aggregate planning strategies and quantitatively compares their effectiveness.
+Size: 12 rows (months) × several columns (demand, workforce, inventory, costs, etc.)
 
-## Key Features
+Description:
 
-- **Excel Models:** Built detailed spreadsheets to simulate production plans, cost trade-offs, and operational constraints.
-- **Strategy Comparison:** Analyzed several planning approaches including Chase Strategy, Level Production, and Hybrid Methods.
-- **Recommendations:** Proposed the most cost-effective strategy to minimize total expenses while meeting all demand and resource constraints.
-- **Presentation:** Includes a PowerPoint summarizing methodology, findings, and strategy recommendations.
+Key columns:
 
-## File Structure
+Month
 
-- `README.md` – Project summary and instructions.
-- `project_file.xlsx` – Main Excel file for data modeling and analysis.
-- `green_mills.pptx` – Presentation of findings and recommended strategy.
+Forecasted Demand
 
-## How to Use
+Starting Workforce
 
-1. Open `project_file.xlsx` in Excel.
-2. Review monthly demand, resource data, and planning models.
-3. Compare strategy outcomes based on cost, workforce stability, and inventory levels.
-4. View `green_mills.pptx` for a summary and detailed recommendations.
+Inventory Level
+
+Production Cost
+
+Holding Cost
+
+Hiring/Firing Costs
+
+Overtime/Shifts Used
+
+⚙️ Tools & Technologies
+Excel | PowerPoint
+
+🔍 Methodology / Approach
+Data Cleaning: Validated and formatted production and demand data; checked for missing or outlier values.
+
+Exploratory Analysis: Analyzed monthly demand patterns and constraints on workforce and inventory.
+
+Modeling / Visualization: Built Excel models for major strategies:
+
+Chase Demand
+
+Level Production
+
+Hybrid Strategy
+
+Modeled cost and inventory implications for each.
+
+Optimization: Compared total costs, workforce fluctuations, and inventory levels to identify the optimal strategy.
+
+Insights: Evaluated the trade-offs between workforce stability and cost minimization.
+
+📈 Results & Key Insights
+✅ Identified the Hybrid Strategy as optimal, reducing total production costs by ~X% versus baseline.
+
+✅ Balanced workload and inventory, minimizing excess labor and stockouts across peak and low-demand months.
+
+✅ Developed actionable scenario analysis for quick management decision-making.
