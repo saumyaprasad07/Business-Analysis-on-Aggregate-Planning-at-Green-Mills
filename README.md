@@ -25,15 +25,3 @@ Green Mills faces variable monthly demand and must determine the best approach t
 2. Review monthly demand, resource data, and planning models.
 3. Compare strategy outcomes based on cost, workforce stability, and inventory levels.
 4. View `green_mills.pptx` for a summary and detailed recommendations.
-
-## Author
-
-**Saumya Prasad**  
-Master’s in Information Systems  
-Active in business analysis, data modeling, and process optimization.
-
-## License
-
-This project is provided for educational and analytical purposes.
-
-***
