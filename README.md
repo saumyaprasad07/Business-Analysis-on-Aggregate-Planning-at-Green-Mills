@@ -1,9 +1,3 @@
-# Business-Analysis-on-Aggregate-Planning-at-Green-Mills
-
-Here’s a sample **README.md** for your “Business-Analysis-on-Aggregate-Planning-at-Green-Mills” GitHub repo. You can edit and refine as needed:
-
-***
-
 # Business Analysis on Aggregate Planning at Green Mills
 
 This project analyzes *aggregate planning strategies* for Green Mills, with the goal of reducing production costs and optimizing resource allocation using **Excel-based modeling**. The analysis recommends the optimal strategy by aligning workforce, inventory, and supply chain constraints to efficiently meet customer demand over a 12-month period.
