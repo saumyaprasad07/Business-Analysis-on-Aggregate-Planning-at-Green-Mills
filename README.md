@@ -1,4 +1,5 @@
-📊 Business Analysis on Aggregate Planning at Green Mills
+# 📊 Business Analysis on Aggregate Planning at Green Mills
+
 A data-driven Excel model recommending the optimal aggregate planning strategy to minimize production costs and balance workforce, inventory, and supply chain efficiency for Green Mills over 12 months.
 
 🧠 Objective
