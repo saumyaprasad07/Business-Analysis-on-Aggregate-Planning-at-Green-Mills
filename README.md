@@ -1,12 +1,12 @@
 # 📊 Business Analysis on Aggregate Planning at Green Mills
 
-_A data-driven Excel model recommending the optimal aggregate planning strategy to minimize production costs and balance workforce, inventory, and supply chain efficiency for Green Mills over 12 months._
+_A data-driven Excel-based model designed to recommend the optimal aggregate production planning strategy for Green Mills Inc. This project minimizes production costs while balancing workforce utilization, inventory levels, and supply chain efficiency across a 12-month planning period._
 
 ***
 
 ## 🧠 Objective
 
-This project evaluates and compares multiple aggregate production planning strategies for Green Mills. The aim is to minimize total operational costs while ensuring all customer demand is met by optimizing workforce allocation, inventory levels, and supply chain constraints across a one-year planning horizon.
+To analyze and compare multiple aggregate production planning strategies—Chase, Level, and Hybrid (Optimal)—to identify the most cost-effective plan that meets demand while maintaining operational efficiency and workforce stability.
 
 ***
 
@@ -29,7 +29,9 @@ This project evaluates and compares multiple aggregate production planning strat
 
 ## ⚙️ Tools & Technologies
 
-`Excel` | `PowerPoint`
+**Microsoft Excel**: Data modeling, Solver optimization, and cost analysis
+
+**PowerPoint**: Business presentation and visualization of findings
 
 ***
 
@@ -52,12 +54,3 @@ This project evaluates and compares multiple aggregate production planning strat
 - ✅ Identified the **Hybrid Strategy** as optimal, reducing total production costs by ~X% versus baseline.
 - ✅ Balanced workload and inventory, minimizing excess labor and stockouts across peak and low-demand months.
 - ✅ Developed actionable scenario analysis for quick management decision-making.
-
-***
-
-## 🖼️ Visuals / Dashboard
-
-| Preview | Description |
-|---------|-------------|
-| (Insert after uploading) ![Excel Model Screenshot]( Excel model visualizing production plan, costs, and constraints |
-| ![PowerPoint Slide Sample](  | Recommendation summary and business impact |
